@@ -93,7 +93,7 @@ class BleDataWorker {
     }
 
 
-    private fun sendCmd(bs: ByteArray) {
+ fun sendCmd(bs: ByteArray) {
         myBleDataManager?.sendCmd(bs)
     }
 
