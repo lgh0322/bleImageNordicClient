@@ -4,6 +4,7 @@ package com.vaca.ble.nordic
 import android.bluetooth.BluetoothDevice
 import android.content.Context
 import android.util.Log
+import com.vaca.nordic.BleDataManager
 
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
